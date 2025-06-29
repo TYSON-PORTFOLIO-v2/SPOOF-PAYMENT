@@ -1,1 +1,222 @@
-# SPOOF-PAYMENT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tyson_Owner - Modded Apps</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      /* Changed to dark gradient background */
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      color: white;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px;
+      /* Darker header background */
+      background: rgba(10, 10, 30, 0.85);
+    }
+
+    .header h1 {
+      color: #00bfff;
+    }
+
+    .header button {
+      background: linear-gradient(to right, #00c6ff, #ff00cc);
+      color: white;
+      border: none;
+      padding: 8px 15px;
+      border-radius: 20px;
+      font-weight: bold;
+    }
+
+    .main-title {
+      text-align: center;
+      padding: 10px;
+      font-size: 18px;
+      color: #e0e0ff;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .card {
+      background: rgba(30, 30, 50, 0.4);
+      border-radius: 15px;
+      text-align: center;
+      padding: 15px;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(100, 100, 200, 0.2);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .card img {
+      width: 70px;
+      height: 70px;
+      object-fit: contain;
+      margin-bottom: 10px;
+      border-radius: 10px;
+    }
+
+    .card h3 {
+      margin: 5px 0;
+      color: white;
+    }
+
+    .free {
+      color: #00ff9d;
+      font-weight: bold;
+      text-shadow: 0 0 5px rgba(0, 255, 157, 0.5);
+    }
+
+    .download-btn {
+      margin-top: 10px;
+      padding: 8px 20px;
+      border: none;
+      border-radius: 20px;
+      background: linear-gradient(to right, #ff7eb3, #ff758c);
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .download-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(255, 126, 179, 0.4);
+    }
+
+    .footer {
+      text-align: center;
+      padding: 15px;
+      background: rgba(10, 10, 30, 0.85);
+    }
+
+    .social-icons img {
+      width: 28px;
+      margin: 0 8px;
+      vertical-align: middle;
+      filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.5));
+      transition: transform 0.3s;
+    }
+
+    .social-icons img:hover {
+      transform: scale(1.2);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Tyson_Owner</h1>
+    <button>The Unknown</button>
+  </div>
+
+  <div class="main-title">
+    Download the latest modded apps by @Tyson_owner
+  </div>
+
+  <div class="container">
+    <!-- WhatsApp -->
+    <div class="card">
+      <img src="whatsapp.png" alt="WhatsApp">
+      <h3>WhatsApp</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/j2sdx" class="download-btn">Download</a>
+    </div>
+
+    <!-- Fampay -->
+    <div class="card">
+      <img src="fampay.png" alt="Fampay">
+      <h3>Fampay</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/ZX6HY" class="download-btn">Download</a>
+    </div>
+
+    <!-- PhonePe 2 -->
+    <div class="card">
+      <img src="phonepe2.png" alt="PhonePe 2">
+      <h3>PhonePay 2</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/1VoqL" class="download-btn">Download</a>
+    </div>
+
+    <!-- Funsta -->
+    <div class="card">
+      <img src="funsta.png" alt="Funsta">
+      <h3>Funsta</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/MpkCL" class="download-btn">Download</a>
+    </div>
+
+    <!-- BhimPay -->
+    <div class="card">
+      <img src="bhimpay.png" alt="BhimPay">
+      <h3>BhimPay</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/182qa" class="download-btn">Download</a>
+    </div>
+
+    <!-- Location Master -->
+    <div class="card">
+      <img src="location.png" alt="Location Master">
+      <h3>Location Master</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/jJ6dT" class="download-btn">Download</a>
+    </div>
+
+    <!-- Gpay -->
+    <div class="card">
+      <img src="gpay.png" alt="Gpay">
+      <h3>Gpay</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/50nvZ" class="download-btn">Download</a>
+    </div>
+
+    <!-- Paytm -->
+    <div class="card">
+      <img src="paytm.png" alt="Paytm">
+      <h3>Paytm</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/SmfTw" class="download-btn">Download</a>
+    </div>
+    
+        <!-- SUPER PAY -->
+    <div class="card">
+      <img src="SUPERPAY.png" alt="SUPERPAY">
+      <h3>Super Pay</h3>
+      <div class="free">FREE</div>
+      <a href="https://sub2unlock.io/npGfF" class="download-btn">Download</a>
+    </div>
+    
+            <!-- SUPER PAY -->
+    <div class="card">
+      <img src="TYSON.png" alt="TYSON">
+      <h3>TYSON</h3>
+      <div class="free">FREE</div>
+      <a href="https://t.me/+kFhnhnlONOszMmNl" class="download-btn">Download</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>© 2025 Tyson_Owner - All Rights Reserved</p>
+    <div class="social-icons">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" alt="Instagram">
+    </div>
+  </div>
+
+</body>
+</html>
